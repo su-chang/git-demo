@@ -1,14 +1,14 @@
 # 1.0.0 (2019-12-06)
 
 
-### Bug Fixes
+### Documentation
 
-* **readme.md:** update readme.md ([ffb5474](https://github.com/su-chang/git-demo/commit/ffb5474d29f3c764f7c6174ca9c1a49860492d92))
+* add some info ([cdaa49d](https://github.com/su-chang/git-demo/commit/cdaa49d8901a836bf374fa9002d606463d398c3e))
 
 
 ### BREAKING CHANGES
 
-* **readme.md:** add test
+* add one more words in reset case
 
 
 
