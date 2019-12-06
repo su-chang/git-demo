@@ -1,7 +1,7 @@
 {
   "name": "git-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "## reset - need to be revert ## revert ## rebase",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -14,6 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/su-chang/git-demo.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
